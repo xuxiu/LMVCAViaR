@@ -1,0 +1,32 @@
+
+Name of Quantlet: LMVCAViaR_adaptive_estimation_length    
+
+Published in: LMVCAViaR
+
+Description: 'plot the adaptive selected intervals of localising multivariate CAViaR model,
+at two quantile levels 5% and 1% with two risk cases.'
+
+Keywords:
+- return
+- estimation
+- regression
+- multivariate analysis
+- data visualization
+- plot
+- quantile
+- interdependence
+- tail-events
+- value at risk
+- interval
+
+See also: 
+- LMVCAViaR_adaptive_estimation_001
+- LMVCAViaR_adaptive_estimation_005 
+- LMVCAViaR_adaptive_quantile
+- LMVCAViaR_estimate_rolling
+- LMVCAViaR_return_plot
+- Localizing_Multivariate_CAViaR            
+
+Author: Xiu Xu
+
+Submitted: Sun, Mar 3 2019 by Xiu Xu

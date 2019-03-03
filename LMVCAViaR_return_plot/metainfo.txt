@@ -1,0 +1,26 @@
+
+Name of Quantlet: LMVCAViaR_return_plot 
+
+Published in: LMVCAViaR
+
+Description: 'Plot the return time series of DAX and SP 500.'
+
+Keywords:
+- return
+- data visualization
+- plot
+- time series
+
+See also: 
+- LMVCAViaR_adaptive_estimation_001
+- LMVCAViaR_adaptive_estimation_005 
+- LMVCAViaR_adaptive_estimation_length
+- LMVCAViaR_adaptive_quantile
+- LMVCAViaR_estimate_rolling
+- Localizing_Multivariate_CAViaR            
+
+Author: Xiu Xu
+
+Submitted: Sun, Mar 3 2019 by Xiu Xu
+
+Datafile: Dataset.xlsx

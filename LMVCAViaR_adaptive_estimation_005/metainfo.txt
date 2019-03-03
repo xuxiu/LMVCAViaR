@@ -1,0 +1,32 @@
+
+Name of Quantlet:  LMVCAViaR_adaptive_estimation_005   
+
+Published in: LMVCAViaR
+
+Description: 'do the adaptive estimation for localising multivariate CAViaR model,
+under two risk cases at quantile level 5%.'
+
+Keywords:
+- return
+- estimation
+- regression
+- multivariate analysis
+- quantile
+- interdependence
+- tail-events
+- autoregression
+- value at risk
+- adaptive
+- interval
+
+See also: 
+- LMVCAViaR_adaptive_estimation_001
+- LMVCAViaR_adaptive_estimation_length  
+- LMVCAViaR_adaptive_quantile
+- LMVCAViaR_estimate_rolling
+- LMVCAViaR_return_plot
+- Localizing_Multivariate_CAViaR            
+
+Author: Xiu Xu
+
+Submitted: Sun, Mar 3 2019 by Xiu Xu
